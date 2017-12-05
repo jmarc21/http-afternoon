@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 class UserTile extends Component{
 
     render(){
-
         const user=this.props.user
 
         return(
